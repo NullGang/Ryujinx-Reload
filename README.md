@@ -15,6 +15,7 @@
   It was written from scratch and development on the project began in September 2017.
   Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
   <br />
+  <a href="https://web.archive.org/web/20241001204402/https://github.com/NullGang/Ryujinx-Reload/releases/tag/1.0.0">saved download</a>
 </p>
 
 <p align="center">
